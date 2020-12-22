@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>shiny on Erlich Bachman</title>
+    <title>shiny on Clarklytics</title>
     <link>/hugo-goa-demo/tags/shiny/</link>
-    <description>Recent content in shiny on Erlich Bachman</description>
+    <description>Recent content in shiny on Clarklytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/hugo-goa-demo/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
