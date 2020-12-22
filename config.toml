@@ -35,12 +35,11 @@ keywords = "minimalist,blog,goa,hugo,shiny,data,analytics"
 ## Social Accounts
 [params.social]
 github = "bclark86"
-linkedin = "<username>"
-email = "you@example.com"
+linkedin = "bryan-clark-b38470b"
 
 ## Extras
 [params.extra]
-copyright = "&copy; Bryan Clark {year}"
+copyright = "© 2020 clarklytcs.io"
 poweredby = true
 highlightjs = true
 socialmarkup = true
