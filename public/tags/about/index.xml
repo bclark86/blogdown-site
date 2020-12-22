@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>about on Clarklytics</title>
-    <link>/hugo-goa-demo/tags/about/</link>
+    <link>/tags/about/</link>
     <description>Recent content in about on Clarklytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/hugo-goa-demo/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>/hugo-goa-demo/about/</link>
+      <link>/about/</link>
       <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-goa-demo/about/</guid>
+      <guid>/about/</guid>
       <description>Ethos Observe. Experiment. Fail. Learn. Repeat.
 For me, it’s just about delivering an exceptional human experience through the use of data, technology, and empathy — earning the right to business growth by improving the lives of your customers.
 Interests I am a problem-solver at heart. I think the best experiences are the natural outcome of a well designed solution.

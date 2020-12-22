@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://shenoybr.github.io/hugo-goa-demo/"
+baseurl = "https://wizardly-bell-563959.netlify.app/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"

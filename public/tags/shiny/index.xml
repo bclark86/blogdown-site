@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shiny on Clarklytics</title>
-    <link>/hugo-goa-demo/tags/shiny/</link>
+    <link>/tags/shiny/</link>
     <description>Recent content in shiny on Clarklytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/hugo-goa-demo/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shiny Apps</title>
-      <link>/hugo-goa-demo/shiny/</link>
+      <link>/shiny/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-goa-demo/shiny/</guid>
+      <guid>/shiny/</guid>
       <description>Notes: This article originally appeared in CodeRag.
 Code/Rag has always been more than just another online tech blog. We strive to be part of the tech community—serving an essential, fundamental look at what’s going on in the valley. It’s why our tagline is “Know Your Code.” We think a tech news publication should know the basics. Be the source. Get down to brass tacks. We can do that because we’re part of the very ecosystem we’re reporting on.</description>
     </item>
